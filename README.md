@@ -10,5 +10,5 @@
 ## .../Cad/Boat_v1.dwg
 ![Image](Image/Cad_v1.jpg)
 
-## Testigng
+## Testing
 ![Image](Image/Test_1.jpg)
