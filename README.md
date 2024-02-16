@@ -1,5 +1,5 @@
 # Mechanical_boat_v1
-## We used freecad and Autocad
+## We used FreeCad and AutoCad
 
 ![Image](Image/Boat_V1.jpg)
 
