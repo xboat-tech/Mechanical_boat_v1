@@ -1,5 +1,5 @@
 # Mechanical_boat_v1
-## File .dwg using freecad / Autocad
+## We used freecad and Autocad
 
 ![Image](Image/Boat_V1.jpg)
 
@@ -7,7 +7,7 @@
 - Use 2 SUP Boats attached to the frame to create a catamaran.
 - The advantage of a catamaran is its excellent stability.
 
-## .../Cad/Boat_v1.dwg
+## .../AutoCad/Boat_v1.dwg
 ![Image](Image/Cad_v1.jpg)
 
 ## Testing
